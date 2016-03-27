@@ -14,7 +14,7 @@ A full description of the Data can be found here:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-## The source files that describe and contain the data include the following:
+## The source files that describe and contain the data can be found in the zip file and include the following:
 * README.txt
 * features_info.txt
 * activity_labels.txt
